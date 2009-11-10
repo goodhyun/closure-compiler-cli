@@ -4,8 +4,8 @@ closure-compiler-cli
 by Daniel F. Martins <daniel.tritone at gmail dot com>
 
 
-Command-line tool written in Python to allow easy access Closure Compiler API,
-a tool for making JavaScript download and run faster (by Google).
+Command-line tool written in Python to allow easy access to Closure Compiler
+API, a tool for making JavaScript download and run faster (by Google).
 
 
 Usage
