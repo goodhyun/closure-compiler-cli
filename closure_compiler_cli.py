@@ -38,7 +38,7 @@ import sys
 
 
 # Service location and supported options
-_SERVICE_URL       = 'http://closure-compiler.appspot.com/compile'
+_SERVICE_URL       = 'https://closure-compiler.appspot.com/compile'
 _OUTPUT_INFO       = ('compiled_code', 'warnings', 'errors', 'statistics',)
 _OUTPUT_FORMAT     = ('text', 'json', 'xml',)
 _COMPILATION_LEVEL = {
